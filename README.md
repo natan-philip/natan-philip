@@ -23,23 +23,18 @@ Estas são as ferramentas e linguagens que estou dominando atualmente e aplicand
 | **Aprendizado Futuro** | Node.js, React, TypeScript e MongoDB |
 | **Soft Skills Chave** | Resolução de Problemas, Proatividade, Trabalho em Equipe e Aprendizado Continuo. |
 
-<!--
+
 ---
 
 ## 🚀 Projetos em Destaque
 
-*(Sugestão: Use esta seção para listar 2 ou 3 dos seus melhores projetos/exercícios, com links para o repositório e o deploy, se houver.)*
-### 1. [Nome do Projeto 1]
-[Breve descrição sobre o que ele faz e o principal desafio que superou.]
+### 1. Xavier & Montalban Advocacia
+* **Descrição:** Website institucional para escritório de advocacia especializado em diversas áreas do direito. O projeto foca em conversão através de uma interface sóbria, elegante e totalmente responsiva, transmitindo a autoridade e seriedade necessárias para o setor jurídico
 * **Tech Stack:** HTML5, CSS3, JavaScript.
-* [🔗 Repositório] | [🌐 Demo ao Vivo]
 
-### 2. [Nome do Projeto 2]
-[Breve descrição...]
-* **Tech Stack:** HTML5, CSS3.
-* [🔗 Repositório]-->
+* **🔗Repositório:** https://github.com/natan-philip/projeto-escritorio-xavier
+* **🌐Deploy:** https://xavier-montalban.vercel.app/
 
----
 
 ## 🎯 Objetivo Profissional & Contato
 
